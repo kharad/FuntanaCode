@@ -1,0 +1,1 @@
+This folder is for the .o files when you compile the code\nBUT! make sure you remove all the object files before you push to the repo.

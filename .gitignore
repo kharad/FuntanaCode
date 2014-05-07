@@ -1,0 +1,2 @@
+#ignore the .o files
+/obj/*.o
